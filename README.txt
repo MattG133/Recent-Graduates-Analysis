@@ -1,0 +1,1 @@
+This analysis tries to examine and visualize earnings of recent graduates from different majors. It looks at the topis from the perspecitve of major type, its size, gender of the graduates and similar features. Histograms and Scatterplots are used to visually find and show trends and insights.
